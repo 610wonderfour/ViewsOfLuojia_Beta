@@ -60,7 +60,7 @@
 
 ##### 功能范围
 
-![思维导图](D:\qq文件\思维导图.png)
+![思维导图](https://i.loli.net/2020/11/16/gSubfjCL4QhBaKW.png)
 
 
 
