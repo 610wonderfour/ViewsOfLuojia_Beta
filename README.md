@@ -1,11 +1,34 @@
 # 610AIProject
+
 2020Artificial Intelligence teamwork
 
+###### 小组成员：辛嘉宇、徐家乐、韩海川、汪涛
+
+
+
+##### github项目地址：https://github.com/610wonderfour/Views_Of_Luojia
+
+##### AppID(小程序ID)：wx3f6e751444040212
+
+
+
+产品PRD文档：https://shimo.im/docs/XrkdcXr8C6CXxjhG
+
+UI文档：https://shimo.im/docs/YxkXkTrY6xXYgQ8C/ 
+
+前后端接口说明文档：https://shimo.im/docs/pttkhCXKDVtcR8wp
+
+测试问题收集文档：https://shimo.im/sheets/hWTppKRKRJ8Cv6dv/MODOC
 
 
 
 
-### 610第一次会议记录
+
+
+
+
+
+### Brief Introduction
 
 ---
 
@@ -113,3 +136,4 @@
 
 
 
+#### 

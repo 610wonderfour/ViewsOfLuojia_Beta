@@ -1,0 +1,6 @@
+<!--pages/analyzeImg/analyzeImg.wxml-->
+<view id="container">
+  <image src="{{targetImgPath}}"></image>
+  <view>当前图片位于:{{analyzeRes}}</view>
+
+</view>
